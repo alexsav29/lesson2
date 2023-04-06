@@ -3,7 +3,6 @@
   padding: 0;
 }
 
-<<<<<<< HEAD
 html,
 body {
   height: 100%;
@@ -11,7 +10,8 @@ body {
 
 h1 {
   font-size: 48px;
-=======
+}
+
 .opinion {
   border-radius: 5px;
   background-color: #ededed;
@@ -24,5 +24,4 @@ h1 {
   float: left;
   margin: 0 auto;
   padding: 10px 25px 15px;
->>>>>>> newf2
 }
